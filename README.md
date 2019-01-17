@@ -4,7 +4,7 @@
 
 • Partnered by the plugin "EconomyAPI" and "PureChat". It also required a "UI API" or you can use the plugin "FormAPI".
 
-Fully Customizable Text and Messages. All API support from 1.5 to 1.x. .
+Fully Customizable Text and Messages. All API support
 
 # Features
 - [x] Fully Customizable Cost
